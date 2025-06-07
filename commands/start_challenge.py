@@ -1,5 +1,5 @@
 from discord import app_commands, Interaction
-from utils.docker_manager import start_challenge_container
+from service.docker_manager import start_challenge_container
 
 @app_commands.command(
   name="start-challenge",
