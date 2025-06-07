@@ -1,0 +1,4 @@
+.env
+challenges/
+__pycache__/
+.venv/
