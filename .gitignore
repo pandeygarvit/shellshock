@@ -2,3 +2,4 @@
 challenges/
 __pycache__/
 .venv/
+.idea/
